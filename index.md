@@ -4,8 +4,11 @@ height="4.456944444444445in"}
 ## 10:00 -- 11:00
 ### Cognição e psicologia da música -- Tempo e emoção
 Joana Sayal                                             |
+
 Pedro Torres Palhares
+
 Alexandre Sayal
+
 Lígia Borges Silva
 
 ## 11:00 -- 11:30
@@ -14,15 +17,21 @@ Lígia Borges Silva
 ## 11:30 -- 12:30
 ### Conceptualização, criatividade e tecnologia
 Thale Roel Pacobahyba Peanha
+
 Pedro Augusto
+
 OCH
+
 Nuno Trocado
 
 ## 14:00 -- 15:00
 ### História, paradigmas e identidade
 André Granjo
+
 Nils Meisel
+
 Catarina Cota
+
 Inês Mariano
 
 ## 15:00 -- 15:30
@@ -31,10 +40,15 @@ Inês Mariano
 ## 15:30 -- 17:00
 ### Mesa Redonda
 Pedro Martins
+
 Renato Panda
+
 Óscar Gonçalves
+
 Jônatas Manzolli
+
 José Oliveira Martins
+
 Leonor Losa (moderação)
 
 
@@ -452,5 +466,7 @@ no qual fui oradora._
 # Comissão organizadora
 
 Lígia Borges Silva
+
 Nuno Trocado
+
 José Oliveira Martins
