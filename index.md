@@ -4,6 +4,10 @@
 
 A Música e domínios adjacentes ocupam um lugar de destaque na investigação que vem sendo desenvolvida no universo da Universidade de Coimbra. As questões colocadas pelo fenómeno musical não só beneficiam de abordagens interdisciplinares, como verdadeiramente convocam um cruzamento de perspectivas, metodologias e campos de conhecimento díspares mas complementares. Neste contexto, torna-se crucial fomentar o contacto entre investigadores, a partilha de projetos e interesses, criando-se oportunidades para colaborações e para o desenvolvimento de uma comunidade académica mais coesa. É com este objetivo que um grupo de investigadores do CEIS20 organiza este evento, assim divulgando o trabalho que vem sendo realizado e promovendo as suas intersecções.
 
+**Data:** 15 de Fevereiro de 2024
+
+**Local:** [CEIS20 - Centro de Estudos Interdisciplinares](https://www.uc.pt/iii/ceis20), Rua Filipe Simões nº 33, Coimbra
+
 # Programa
 
 ## 10:00 -- 11:00
