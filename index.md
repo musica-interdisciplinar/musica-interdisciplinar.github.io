@@ -1,5 +1,4 @@
-![Poster](poster.png){width="5.905555555555556in"
-height="4.456944444444445in"}
+![Poster](poster.png)
 
 ## 10:00 -- 11:00
 ### Cognição e psicologia da música -- Tempo e emoção
