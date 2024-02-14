@@ -1,64 +1,46 @@
 ![Poster](media/poster.png){width="5.905555555555556in"
 height="4.456944444444445in"}
 
-+------------+---------------------------------------------------------+
-| 10:00 --   | **Cognição e psicologia da música -- Tempo e emoção**   |
-| 11:00      |                                                         |
-|            | Joana Sayal                                             |
-|            |                                                         |
-|            | Pedro Torres Palhares                                   |
-|            |                                                         |
-|            | Alexandre Sayal                                         |
-|            |                                                         |
-|            | Lígia Borges Silva                                      |
-+============+=========================================================+
-| 11:00 --   | *Coffee break*                                          |
-| 11:30      |                                                         |
-+------------+---------------------------------------------------------+
-| 11:30 --   | **Conceptualização, criatividade e tecnologia**         |
-| 12:30      |                                                         |
-|            | Thales Roel Pacobahyba Pessanha                         |
-|            |                                                         |
-|            | Pedro Augusto                                           |
-|            |                                                         |
-|            | OCH                                                     |
-|            |                                                         |
-|            | Nuno Trocado                                            |
-+------------+---------------------------------------------------------+
-|            |                                                         |
-+------------+---------------------------------------------------------+
-| 14:00 --   | **História, paradigmas e identidade**                   |
-| 15:00      |                                                         |
-|            | André Granjo                                            |
-|            |                                                         |
-|            | Nils Meisel                                             |
-|            |                                                         |
-|            | Catarina Cota                                           |
-|            |                                                         |
-|            | Inês Mariano                                            |
-+------------+---------------------------------------------------------+
-| 15:00 --   | *Coffee break*                                          |
-| 15:30      |                                                         |
-+------------+---------------------------------------------------------+
-| 15:30 --   | **Mesa Redonda**                                        |
-| 17:00      |                                                         |
-+------------+---------------------------------------------------------+
-|            | Pedro Martins                                           |
-+------------+---------------------------------------------------------+
-|            | Renato Panda                                            |
-+------------+---------------------------------------------------------+
-|            | Óscar Gonçalves                                         |
-+------------+---------------------------------------------------------+
-|            | Jônatas Manzolli                                        |
-|            |                                                         |
-|            | José António Oliveira Martins                           |
-+------------+---------------------------------------------------------+
-|            | Leonor Losa (moderação)                                 |
-+------------+---------------------------------------------------------+
+## 10:00 -- 11:00
+### Cognição e psicologia da música -- Tempo e emoção
+Joana Sayal                                             |
+Pedro Torres Palhares
+Alexandre Sayal
+Lígia Borges Silva
 
-**Joana Sayal**
+## 11:00 -- 11:30
+### Coffee break
 
-***Auditory Neuronal Entrainment of Consciousness***
+## 11:30 -- 12:30
+### Conceptualização, criatividade e tecnologia
+Thale Roel Pacobahyba Peanha
+Pedro Augusto
+OCH
+Nuno Trocado
+
+## 14:00 -- 15:00
+### História, paradigmas e identidade
+André Granjo
+Nils Meisel
+Catarina Cota
+Inês Mariano
+
+## 15:00 -- 15:30
+### Coffee break
+
+## 15:30 -- 17:00
+### Mesa Redonda
+Pedro Martins
+Renato Panda
+Óscar Gonçalves
+Jônatas Manzolli
+José Oliveira Martins
+Leonor Losa (moderação)
+
+
+# Joana Sayal
+
+## Auditory Neuronal Entrainment of Consciousness
 
 A consciência envolve um fluxo de informação neuronal fortemente
 associado à sincronização oscilatória no cérebro. O alinhamento entre os
@@ -79,19 +61,18 @@ um contributo para o desenvolvimento das estratégicas de reabilitação em
 perturbações da consciência, como o coma, estado vegetativo e o estado
 mínimo de consciência.
 
-Joana Sayal é bolseira de doutoramento em Psicologia (Neurociência
+_Joana Sayal é bolseira de doutoramento em Psicologia (Neurociência
 Cognitiva) no Proaction Lab e investiga temas como as neurociências da
 consciência, música e neuroplasticidade. Completou em 2022 o Mestrado
 Interuniversitário em Neuropsicologia Clínica e Experimental pelas
 Universidades de Lisboa, Coimbra e Minho, com estágio curricular na
 Neurologia do CHUC e investigação para a tese de mestrado no Proaction
 Lab. É formada em violoncelo pelo conservatório de música, tocando em
-vários projetos musicais.
+vários projetos musicais._
 
-**Pedro Torres Palhares**
+# Pedro Torres Palhares
 
-***A neurophenomenological investigation of musical experiencing in jazz
-improvisation***
+## A neurophenomenological investigation of musical experiencing in jazz improvisation
 
 Musical improvisation is often linked with profound changes in the
 quality and intensity of subjective experience, configuring, in many
@@ -119,7 +100,7 @@ performance, and creativity from a novel approach, one consisting in the
 combination of transcranial magnetic stimulation with
 electroencephalography (TMS-EEG).
 
-I am doing a PhD in Cognitive Neuroscience as a member of the Proaction
+_I am doing a PhD in Cognitive Neuroscience as a member of the Proaction
 Lab, and my work aims to investigate the structure and configuration of
 consciousness during musical performance. I privilege the
 characterization and explanation of the mechanisms that constitute and
@@ -128,12 +109,11 @@ creative thought. Methodologically, I use psycho-phenomenological
 approaches (via experience sampling) and deterministic brain activity
 measures (by combining transcranial magnetic stimulation with
 electroencephalography \[TMS-EEG\]) during acts of musical
-improvisation.
+improvisation._
 
-**Alexandre Sayal**
+# Alexandre Sayal
 
-***Ouve o teu cérebro: descodificação de emoções evocadas pela música
-para desenvolvimento de interfaces de neurofeedback com base em fMRI***
+### Ouve o teu cérebro: descodificação de emoções evocadas pela música para desenvolvimento de interfaces de neurofeedback com base em fMRI
 
 A música pode transmitir-nos emoções básicas, como a felicidade e
 tristeza, e emoções mais complexas, como a ternura ou a tristeza. Os
@@ -162,19 +142,17 @@ própria ativação neural durante uma tarefa. Esta abordagem pode
 revelar-se importante no desenvolvimento de futuras intervenções em
 patologias associadas à regulação emocional.
 
-Alexandre Sayal concluiu o Mestrado em Engenharia Biomédica em 2016 na
-Universidade de Coimbra. Investiga na área da neurociência cognitiva,
+_Alexandre Sayal concluiu o Mestrado em Engenharia Biomédica em 2016 na Universidade de Coimbra. Investiga na área da neurociência cognitiva,
 com particular interesse em ressonância magnética funcional. Após três
 anos, inscreve-se no doutoramento em Engenharia Biomédica com o projeto
 \"Ouve o teu cérebro: a música como interface para intervenções de
 neurofeedback com base em fMRI\", que resulta da combinação da sua
 paixão pela música com a vontade de um engenheiro de compreender a
-estrutura biológica mais complexa - o cérebro humano.
+estrutura biológica mais complexa - o cérebro humano._
 
-**Lígia Borges Silva**
+# Lígia Borges Silva
 
-***Música e percepção temporal - O papel de diversos parâmetros musicais
-na percepção de passagem do tempo durante a audição de música***
+## Música e percepção temporal - O papel de diversos parâmetros musicais na percepção de passagem do tempo durante a audição de música
 
 A audição de música pode influenciar a percepção temporal do ouvinte.
 Desta forma, dois excertos musicais com a mesma duração cronométrica
@@ -197,7 +175,7 @@ projeto que poderão beneficiar de uma abordagem interdisciplinar,
 envolvendo conhecimentos e/ou metodologias provenientes de áreas como as
 neurociências, a programação ou a análise musical.
 
-Lígia Borges Silva é doutoranda no curso de Estudos Artísticos da UC,
+_Lígia Borges Silva é doutoranda no curso de Estudos Artísticos da UC,
 onde estuda as relações entre o tempo musical e o tempo subjetivo. O seu
 percurso académico é pautado por uma formação estilisticamente variada
 dentro da música, que se materializou na conclusão de uma licenciatura
@@ -207,12 +185,11 @@ instrumentista em variadas formações musicais, desde ensembles de música
 de câmara a orquestras sinfónicas, combos e Jazz Big Bands. Após anos
 dedicados à performance musical e ao ensino vocacional de música
 atualmente dedica-se exclusivamente à investigação sendo bolseira da
-Fundação para a Ciência e a Tecnologia.
+Fundação para a Ciência e a Tecnologia._
 
-**Thales Roel Pacobahyba Pessanha**
+# Thales Roel Pacobahyba Pessanha
 
-***Uma plataforma multimodal de interação humano-computador para música
-e performance interativas***
+## Uma plataforma multimodal de interação humano-computador para música e performance interativas
 
 O avanço das tecnologias de mídia digital na criação e execução musical
 tem proporcionado novas possibilidades para expressão criativa e
@@ -239,18 +216,18 @@ O processo estruturado e iterativo proposto visa projetar e desenvolver
 contextos sonoros que possam ser utilizados em diversas circunstâncias e
 por pessoas de diferentes origens culturais.
 
-Thales Roel é engenheiro de som e pesquisador no Laboratório de Design
+_Thales Roel é engenheiro de som e pesquisador no Laboratório de Design
 Computacional e Visualização. Formou-se em Música com ênfase em
 composição pela Universidade Estadual de Campinas (Unicamp), obtendo
 também certificação em Engenharia de Som. Atualmente, cursa doutorado em
 Design de Médias Computacionais na Universidade de Coimbra, focando em
 estratégias de design sonoro que facilitam interações entre humanos e
 máquinas. Seu trabalho é orientado pelos Professores Doutores Pedro
-Martins e Jônatas Manzolli.
+Martins e Jônatas Manzolli._
 
-**Pedro Augusto**
+# Pedro Augusto
 
-***Ruído Branco***
+## Ruído Branco
 
 Ruído e Terapia. O ruído é um aspecto material do som, podendo ser usado
 para descrever uma série de situações aurais. Por isso é relacional, é
@@ -267,7 +244,7 @@ Revolução Industrial ao tratamento de tinnitus, esta massa sonora em
 certa medida, interage fisica e mentalmente com o humano. \"Silence is
 not simply de absence of noise.\" (Corbin, 2018)
 
-Pedro Augusto, desde 2021 é assistente convidado na FBAUP e, desde 2023,
+_Pedro Augusto, desde 2021 é assistente convidado na FBAUP e, desde 2023,
 no IPCA. Trabalha como artista e compositor musical para as áreas da
 dança, teatro, performance e cinema. Tem largo percurso fonográfico como
 produtor, engenheiro de som e editor em diversos álbuns de música
@@ -275,11 +252,10 @@ portuguesa da última década. É ainda responsável pelo arquivo Found
 Tapes Porto, pelo projecto musical Live Low e pelo selo editorial ETAK.
 Nos últimos anos tem dedicado o seu trabalho à curadoria artística e à
 edição literária dentro das temáticas da música móvel, serendipidade e
-caminhada. Membro do i2ADS.
+caminhada. Membro do i2ADS._
 
-**OCH**
-
-***Community.quantumland.art***
+# OCH
+## Community.quantumland.art
 
 Community.quantumland.art é um dos outputs em curso do projecto
 IIMPAQCT. No decorrer de um interesse crescente em computação quântica e
@@ -295,7 +271,7 @@ walkthrough das duas dimensões da plataforma - forum e database -, e
 fazendo também breve referência à filosofia de construção: online
 community digital garden.
 
-OCH is a performer-composer-technologist working on music and quantum
+_OCH is a performer-composer-technologist working on music and quantum
 computing, telematics, multimedia, and improvisation. He is passionate
 about cinema, teaching, and performing new works. He earned his PhD at
 UC Irvine, with research project Adventures in Quantumland
@@ -303,11 +279,10 @@ UC Irvine, with research project Adventures in Quantumland
 with research on the relations between music and painting. In recent
 years, his work has been recognized by MSCA, Fulbright, FCT, Medici,
 Beall Center for Art+Technology, and IBM.
-[omarcostahamido.com](https://omarcostahamido.com)
+[omarcostahamido.com](https://omarcostahamido.com)_
 
-**Nuno Trocado**
-
-***Analogia na música e metáforas organicistas***
+# Nuno Trocado
+## Analogia na música e metáforas organicistas
 
 A capacidade cognitiva de recurso à analogia é central para um amplo
 espectro de habilidades humanas, ubíqua no pensamento quotidiano e
@@ -325,17 +300,15 @@ compreensões organicistas de largo escopo, a saber, as suas motivações
 programáticas, estruturais e ecológicas, desde o séc. xix até ao
 presente. Nela procuro ainda ressonâncias com a minha prática artística.
 
-Nuno Trocado (Univ. Coimbra, CEIS20, FLUC) é doutorando em Estudos
+_Nuno Trocado (Univ. Coimbra, CEIS20, FLUC) é doutorando em Estudos
 Artísticos e bolseiro da FCT. É ainda licenciado em Música / Jazz e
 mestre em Composição e Teoria Musical, ambos os graus pela ESMAE. Como
 músico, participa em grupos de improvisadores e compõe para diversas
 formações instrumentais e electrónica, com especial interesse por
-cruzamentos disciplinares. [nunotrocado.com](https://nunotrocado.com/)
+cruzamentos disciplinares. [nunotrocado.com](https://nunotrocado.com/)_
 
-**André Granjo**
-
-***António Xavier Monteiro e a música orquestral na Academia de Coimbra
-em meados do séc. XIX***
+# André Granjo
+## António Xavier Monteiro e a música orquestral na Academia de Coimbra em meados do séc. XIX
 
 A prática musical orquestral na Academia de Coimbra é um fenómeno que
 pode ser traçado de forma directa desde os finais da primeira metade do
@@ -360,18 +333,17 @@ práticas musicais da Academia Coimbrã na segunda metade do séc. XIX,
 procurando assim enriquecer o conhecimento da história da música do
 nosso país.
 
-Licenciado em Antropologia pela Universidade de Coimbra, aí frequentou o
+_Licenciado em Antropologia pela Universidade de Coimbra, aí frequentou o
 Mestrado e o Doutoramento em Ciências Musicais. Mestre em Direcção de
 Orquestra de Sopros pela Zuid-Nederlandse Hoogeschool fur Muziek em
 Maastricht e, entre 2009 e 2011 foi Visiting Scholar no departamento de
 Wind Music Studies da Universidade do Norte do Texas. É membro do
 Instituto de Etnomusicologia -- Centro de Estudos de Música e Dança,
 maestro titular da Orquestra Académica da UC e Professor Assistente
-Convidado do DeCA-UA.
+Convidado do DeCA-UA._
 
-**Nils Meisel**
-
-***Pensamento sonoro e a filosofia da ambiência***
+# Nils Meisel
+## Pensamento sonoro e a filosofia da ambiência
 
 A apresentação aborda a relação entre a arte sonora e a filosofia,
 explorando as implicações conceptuais da arte sonora para além das
@@ -399,19 +371,17 @@ geral, remodelam esta narrativa. Novos campos como \"sound studies\" e
 \"Sonic Thinking\" testemunham tais transformações, reconfigurando
 paradigmas intelectuais.
 
-Nils Meisel (1981) é artista sonoro e sound designer residente no Porto.
+_Nils Meisel (1981) é artista sonoro e sound designer residente no Porto.
 Doutorando em Arte Contemporânea em Coimbra, fez mestrado em Edimburgo e
 licenciatura na Universidade Católica. Cofundador das oficinas
 \"Collected Sound Fragments\". Trabalha em teatro e cinema experimental.
 Cofundador da editora Amateur e do coletivo Apocalypse Hotel. Participa
 em projetos musicais como Preto Marfim, Sereias, Lonzdales\'s Fantasy,
-10.000 Russos entre outros.
+10.000 Russos entre outros._
 
-**Catarina Cota**
+# Catarina Cota
+## Os fluxos entre a música popular açoriana e a Canção de Coimbra nos meios de transmissão cultural durante a década de 1960
 
-***Os fluxos entre a música popular açoriana e a Canção de Coimbra --
-nos meios de transmissão cultural durante a década de 1960\
-***\
 Partindo da ideia de perspetivas e interceções e servindo-me da
 dissertação que estou a desenvolver, pretendo apresentar uma comunicação
 sobre Os fluxos entre a música popular açoriana e a Canção de Coimbra,
@@ -435,16 +405,14 @@ contexto histórico é enriquecido por obras como A Canção de Coimbra em
 Tempos de Luta Estudantis de Jorge Cravo e "Movimentos estudantis na
 crise do Estado Novo: mitos e realidades" de Miguel Cardina.
 
-Catarina da Rocha Cota, licenciada em História pela Faculdade de Letras
+_Catarina da Rocha Cota, licenciada em História pela Faculdade de Letras
 da Universidade de Coimbra e, atualmente, mestranda em História
 Contemporânea pela mesma instituição onde está a desenvolver a sua
 dissertação com o tema "Os fluxos entre a Música Tradicional Açoriana e
-a Canção de Coimbra -- Os anos 60 e o Disco Temas Açorianos (Baladas)\".
+a Canção de Coimbra -- Os anos 60 e o Disco Temas Açorianos (Baladas)\"._
 
-**Inês Mariano**
-
-***A negociação identitária através do Dabke e a autenticidade híbrida
-no Shamstep dos 47Soul***
+# Inês Mariano
+## A negociação identitária através do Dabke e a autenticidade híbrida no Shamstep dos 47Soul
 
 Esta comunicação visa explorar a evolução dinâmica da tradição
 folclórica palestina conhecida como Dabke, debruçando-se sobre o seu
@@ -473,18 +441,16 @@ problemática multifacetada de coexistir enquanto palestinianos
 desenraizados num país que os acolhe e, simultaneamente, apelar a uma
 audiência internacional.
 
-Sou licenciada em História da Arte pela Universidade de Coimbra e
+_Sou licenciada em História da Arte pela Universidade de Coimbra e
 mestranda no Mestrado de Estudos Artísticos oferecido pela mesma
 instituição. Em 2020 fui bolseira de iniciação à investigação pela FCT,
 integrando o projecto "Tectos Pintados em Portugal: sécs. XIV-XVI" sob
 mentoria das Dr.as Joana Antunes e Marta Simões, do qual foi fruto a
 comunicação do mesmo nome inserida no colóquio Patrimónios (In)Visíveis
-no qual fui oradora.
+no qual fui oradora._
 
-**Comissão organizadora**
+# Comissão organizadora
 
 Lígia Borges Silva
-
 Nuno Trocado
-
-José António Oliveira Martins
+José Oliveira Martins
