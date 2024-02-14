@@ -3,7 +3,7 @@ height="4.456944444444445in"}
 
 ## 10:00 -- 11:00
 ### Cognição e psicologia da música -- Tempo e emoção
-Joana Sayal                                             |
+Joana Sayal
 
 Pedro Torres Palhares
 
