@@ -47,7 +47,7 @@ Inês Mariano
 ### Coffee break
 
 ## 15:30 -- 17:00
-### Mesa Redonda
+### Mesa Redonda -- Perspectivas e futuros da investigação em música
 Pedro Martins
 
 Renato Panda
