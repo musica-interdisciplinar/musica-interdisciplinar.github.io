@@ -60,7 +60,6 @@ José Oliveira Martins
 
 Leonor Losa (moderação)
 
-
 # Joana Sayal
 
 ## Auditory Neuronal Entrainment of Consciousness
@@ -479,3 +478,5 @@ Lígia Borges Silva
 Nuno Trocado
 
 José Oliveira Martins
+
+<a style="position: fixed; bottom: 0; right: 0; margin: 10px; font-size: 2em;" href="#programa">📅</a>
