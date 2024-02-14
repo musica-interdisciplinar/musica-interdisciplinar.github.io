@@ -15,7 +15,7 @@ Lígia Borges Silva
 
 ## 11:30 -- 12:30
 ### Conceptualização, criatividade e tecnologia
-Thale Roel Pacobahyba Peanha
+Thales Roel Pacobahyba Pessanha
 
 Pedro Augusto
 
