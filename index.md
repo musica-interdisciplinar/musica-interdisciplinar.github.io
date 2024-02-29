@@ -12,7 +12,7 @@ A Música e domínios adjacentes ocupam um lugar de destaque na investigação q
 
 ## 10:00 -- 11:00
 ### Cognição e psicologia da música -- Tempo e emoção
-Joana Sayal [Joana Sayal](#joana-sayal)
+[Joana Sayal](#joana-sayal)
 
 Pedro Torres Palhares
 
