@@ -12,13 +12,14 @@ A Música e domínios adjacentes ocupam um lugar de destaque na investigação q
 
 ## 10:00 -- 11:00
 ### Cognição e psicologia da música -- Tempo e emoção
-Joana Sayal
+[Joana
+Sayal](#joana-sayal)
 
-Pedro Torres Palhares
+[Pedro Torres Palhares](#pedro-torres-palhares)
 
-Alexandre Sayal
+[Alexandre Sayal](#alexandre-sayal)
 
-Lígia Borges Silva
+[Lígia Borges Silva](#lígia-borges-silva)
 
 ## 11:00 -- 11:30
 ### Coffee break
